@@ -1,2 +1,2 @@
 # Notes
-Study note.
+Study note
